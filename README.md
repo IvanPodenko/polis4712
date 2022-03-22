@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @polis4712, or just Ivan
 - 👀 I’m interested in  world of IT technologies, layout, application development. I want to radically change my line of work
 - 🌱 I’m currently learning  v SkillBox
-- 💞️ I’m looking to collaborate on ready to start an internship with training, for further enrollment in the state
+- 💞️ I’m looking to collaborate on Ready to start an internship with training, for further enrollment in the state
 - 📫 How to reach me  тел: +7 964 573 44 1one  email: i.podenko@gmail.com 
 
 <!---
